@@ -1,0 +1,12 @@
+{
+  "name": "@formio/deprecated-types",
+  "version": "0.1.0",
+  "description": "Deprecated types from formio.js@4.x branch.",
+  "types": "index.d.ts",
+  "author": "",
+  "files": [
+    "types",
+    "index.d.ts"
+  ],
+  "license": "MIT"
+}
